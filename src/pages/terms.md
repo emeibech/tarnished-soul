@@ -65,4 +65,4 @@ These Terms shall be governed by and construed in accordance with the laws of Th
 
 ## 10. Contact Us
 
-If you have any questions about these Terms, please contact us at pleasedont@contact.us.
+If you have any questions about these Terms, please contact us at mark.bechayda@emeibech.com.
