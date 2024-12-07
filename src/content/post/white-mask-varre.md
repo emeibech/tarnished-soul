@@ -1,5 +1,5 @@
 ---
-publishDate: 2023-08-12T00:00:00Z
+publishDate: 2024-12-09T00:00:00Z
 author: John Smith
 title: "White Mask Varré: The Mysterious Guide of Elden Ring's Blood-Soaked Path"
 excerpt: This article delves into the lore, motivations, and consequences surrounding Varré, exploring why he is a pivotal character in the Tarnished's journey.
