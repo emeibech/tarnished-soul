@@ -3,6 +3,7 @@ publishDate: 2024-12-07T00:00:00Z
 title: 'The Enigmatic Elden Beast: Unraveling the Mysteries of the Celestial Guardian'
 excerpt: Through an exploration of its origins, nature, and purpose, we delve into the enigmatic lore surrounding the Elden Beast, seeking to understand its battles, scars, and the significance of its existence within the broader narrative of Elden Ring.
 image: ~/assets/images/elden-beast/elden-beast.webp
+category: Elden Ring
 tags:
   - elden-beast
   - elden-ring-lore

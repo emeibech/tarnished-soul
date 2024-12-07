@@ -3,6 +3,7 @@ publishDate: 2024-12-08T00:00:00Z
 title: "Chapel of Anticipation: A Journey Through Elden Ring's Enigmatic Gateway"
 excerpt: In the vast and intricate world of Elden Ring, the Chapel of Anticipation serves as a fascinating gateway to the Lands Between. This mysterious location is the player's first introduction to the game's rich lore and intricate narrative.
 image: '~/assets/images/chapel-of-anticipation/chapel-of-anticipation.webp'
+category: Elden Ring
 tags:
   - elden-ring-lore
   - chapel-of-anticipation
