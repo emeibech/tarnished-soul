@@ -5,8 +5,8 @@ excerpt: This article delves into the lore, motivations, and consequences surrou
 image: ~/assets/images/white-mask-varre/white-mask-varre.webp
 category: Elden Ring
 tags:
-  - astro
-  - tailwind css
+  - elden-ring-lore
+  - elden-ring-npc
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
