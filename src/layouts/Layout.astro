@@ -36,6 +36,17 @@ const { language, textDirection } = I18N;
     <SiteVerification />
     <Analytics />
 
+    <!-- tracking pageviews -->
+    <script defer="true" async>
+      setTimeout(() => {
+        fetch('https://n8n.emeibech.com/webhook/4ca6eba5-7428-4642-9ec4-add8363706cc', {
+          method: 'POST',
+          headers: { 'x-64-domain': 'dGFybmlzaGVkc291bC5jb20=' },
+          body: JSON.stringify({ domain: 'local', page: window.location.pathname.slice(1) }),
+        });
+      }, 2000);
+    </script>
+
     <!-- Comment the line below to disable View Transitions -->
     <ViewTransitions fallback="swap" />
   </head>
