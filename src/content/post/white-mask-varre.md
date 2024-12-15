@@ -7,8 +7,6 @@ category: Elden Ring
 tags:
   - elden-ring-lore
   - elden-ring-npc
-metadata:
-  canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
 
 <!-- topics: white mask varre lore, who is varre, what is varre's ultimate goal and purpose, why is he just waiting for us at the first step, how does varre know that we have come for the elden ring, what happens if you kill varre -->
