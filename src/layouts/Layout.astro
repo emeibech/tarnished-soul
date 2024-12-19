@@ -44,7 +44,8 @@ const { language, textDirection } = I18N;
           headers: { 'x-64-domain': 'dGFybmlzaGVkc291bC5jb20=' },
           body: JSON.stringify({
             domain: 'tarnishedsoul.com',
-            page: window.location.pathname.slice(1),
+            page:
+              window.location.pathname.slice(1) === '' ? 'home' : window.location.pathname.slice(1),
           }),
         });
       }, 2000);
