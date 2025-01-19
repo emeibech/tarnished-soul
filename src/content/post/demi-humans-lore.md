@@ -11,7 +11,7 @@ tags:
 
 <!-- topics: Demi-human lore and origins, Connection Between Demi-Humans and Outer Gods in Elden Ring, Demi-Human Evolution: The Missing Link Between Beastmen and Humans, Role of Demi-Human Queens and Their Mythical Lineage, Social Perception and Misconceptions About Demi-Humans, Kenneth Haight’s Relations with the Demi-Humans and Diplomatic Insights, Distinctive Features and Characteristics of Bloodhound Knights, Demi-Human Knowledge and Cosmology: The Case of Onze and Yosh -->
 
-Often marginalized and misunderstood, demi-humans serve as a crucial link between the primal and civilized, challenging societal norms and species classifications. This post explores the origins, evolution, and social perceptions of demi-humans, examining their connection to the outer gods and their role in the cosmic story of Elden Ring.
+Often marginalized and misunderstood, **demi-humans** serve as a crucial link between the primal and civilized, challenging societal norms and species classifications. This post explores the origins, evolution, and social perceptions of demi-humans, examining their connection to the outer gods and their role in the cosmic story of Elden Ring.
 
 ### Demi-Humans Lore and Origins
 

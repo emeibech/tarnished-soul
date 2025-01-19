@@ -1,6 +1,7 @@
 ---
 publishDate: 2024-12-15T00:00:00Z
-title: "Ranni the Witch: Elden Ring's Enigmatic Sorceress and Everyone's Waifu"
+updateDate: 2025-01-19T00:00:00Z
+title: "Ranni the Witch Lore: Elden Ring's Enigmatic Lunar Princess"
 excerpt: Born from the union of Radagon and Rennala, Ranni the Witch's life is marked by her unique status as an Empyrean, her involvement in the pivotal Night of Black Knives, and her quest to establish a new order under the stars and moon.
 image: ~/assets/images/ranni-the-witch/snow-witch.webp
 category: Elden Ring

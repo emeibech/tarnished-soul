@@ -11,7 +11,7 @@ tags:
 
 <!-- topics: Boc: Lore and History | Boc's relationship with Melina and Radagon | The symbolism of the Golden Needle in Boc's storyline | Comparisons between Boc, Radagon, and Messmer | Radagon's duality and connections to sewing | The theme of love versus order in Boc's and Radagon's stories | Boc's journey of self-acceptance -->
 
-In the lore-driven world of Elden Ring, Boc emerges as a poignant character who explores themes of identity, acceptance, and the quest for validation. Through his interactions with key figures like Melina and Radagon, and the symbolic Golden Needle, Boc's storyline offers a rich exploration of love versus order, inviting players to reflect on the power of empathy and self-discovery.
+In the lore-ridden world of Elden Ring, **Boc the Seamster** emerges as a poignant character who explores themes of identity, acceptance, and the quest for validation. Through his interactions with key figures like Melina and Radagon, and the symbolic Golden Needle, Boc's storyline offers a rich exploration of love versus order, inviting players to reflect on the power of empathy and self-discovery.
 
 ### Boc the Seamster: Lore and History
 
