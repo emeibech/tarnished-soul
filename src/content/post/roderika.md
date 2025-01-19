@@ -1,5 +1,6 @@
 ---
 publishDate: 2024-12-29T00:00:00Z
+updateDate: 2025-01-19T00:00:00Z
 title: 'Roderika: The Enigmatic Spirit-Tuner of Elden Ring'
 excerpt: As a spirit-tuner, Roderika's rare ability to enhance spirit ashes makes her an invaluable ally to players on their quest to become Elden Lord. Yet, it is her enigmatic past, hinted at by her crimson hood and tragic tales, that captivates players and invites speculation.
 image: ~/assets/images/roderika/roderika.webp
@@ -11,9 +12,9 @@ tags:
 
 <!-- topics: Introduction to Roderika and her role in Elden Ring, Roderika's initial encounter and backstory, The significance of Roderika's dialogues at Stormhill Shack, Roderika's journey from Stormhill Shack to Roundtable Hold, Spirit Tuning and Roderika's newfound purpose, Theories and mysteries surrounding Roderika's true identity, Hewg's comments on Roderika and potential historical connections, Analysis of Roderika's relationship with other characters, Roderika's significance in the broader lore of Elden Ring, Speculations on Roderika's royal lineage and its implications -->
 
-From her initial encounter at **Stormhill Shack** to her pivotal role at the **Roundtable Hold**, Roderika's journey is one of transformation, courage, and the search for purpose amidst the chaos of the Lands Between.
+From her initial encounter at **Stormhill Shack** to her pivotal role at the **Roundtable Hold**, Roderika's lore is one of transformation, courage, and the search for purpose amidst the chaos of the Lands Between.
 
-### Introduction to Roderika and her Role in Elden Ring
+### Roderika Lore: Introduction and her Role in Elden Ring
 
 Roderika, a **spirit-tuner**, is a compelling NPC in the vast world of Elden Ring. Her unique ability to **tune spirits** is rare among other characters. This gift allows players to enhance their **spirit ashes**, providing invaluable support throughout their journey to become Elden Lord. Roderika's presence in the **Roundtable Hold**, a gathering place for champions, highlights her importance in the game as she aids players in strengthening their spectral allies, impacting their overall experience.
 
