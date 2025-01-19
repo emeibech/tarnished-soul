@@ -18,7 +18,7 @@ tags:
 
 The **Elden Beast**, a name that resonates with whispers of mystique and power, occupies a central role in the Lands Between. This celestial entity, intertwined with the very essence of the Erdtree and itself the true form of the Elden Ring, is more than just a creature; it is a symbol of the cosmic order and the divine mandate that governs the realm.
 
-### Understanding the Elden Beast: Origins and Lore
+### Elden Beast Lore: Origins and Role in Elden Ring
 
 Few entities are as enigmatic as the Elden Beast. Its origins lie in the stars, sent as a **golden harbinger by the Greater Will** to enforce the cosmic decree of Order. The convergence of its essence with the Erdtree birthed the Elden Ring, an artifact of immense power and the very foundation of the Golden Order.
 

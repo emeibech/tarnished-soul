@@ -14,7 +14,7 @@ tags:
 
 As players navigate this realm, Melina's connections to Queen Marika, her potential demigod status, and her cryptic goals prompt deeper exploration into her role as both a helper and a harbinger of change. Her journey, interwoven with themes of rebirth, chaos, and destiny, challenges players to ponder the true cost of power and the nature of sacrifice.
 
-### Melina's Lore and Origins
+### Melina Lore: Origins and Role in Elden Ring
 
 Melina, a guiding force within Elden Ring, is **shrouded in mystery**, her origins deeply intertwined with the intricate lore of the Lands Between. Identifying as a finger maiden, she offers the Tarnished the means to **transform runes into strength** and provides crucial guidance throughout their quest for the Elden Ring. Her journey begins with an offer to accompany the player to the **foot of the Erdtree**, a task she claims is tied to her own purpose. Her ambiguous nature is further emphasized by her sporadic appearances at various Sites of Grace, where she engages with the player, revealing glimpses of her connection to the game's overarching narrative.
 

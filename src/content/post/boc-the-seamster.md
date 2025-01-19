@@ -13,7 +13,7 @@ tags:
 
 In the lore-driven world of Elden Ring, Boc emerges as a poignant character who explores themes of identity, acceptance, and the quest for validation. Through his interactions with key figures like Melina and Radagon, and the symbolic Golden Needle, Boc's storyline offers a rich exploration of love versus order, inviting players to reflect on the power of empathy and self-discovery.
 
-### Boc: Lore and History
+### Boc the Seamster: Lore and History
 
 Boc, initially encountered as a **mysterious, talking bush**, plays a pivotal role in the narrative of the Lands Between. His journey from a humble seamster to a significant figure highlights themes of love, acceptance, and identity. Though his origins remain unknown, his transformation begins with his interactions with the protagonist, who first meets him in an unexpected guise. Boc's story reflects the game's central themes of self-acceptance and the quest for approval.
 

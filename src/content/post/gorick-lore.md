@@ -13,7 +13,7 @@ tags:
 
 From his modest beginnings as the runt of his kin to his rise as a formidable bearer of a **Great Rune**, Godrick's journey is marked by his notorious practice of **grafting**—an embodiment of his defiance against his limitations and the expectations of his lineage.
 
-### The Origins and Lineage of Godrick
+### Godrick Lore: The Origins and Lineage
 
 **Godrick, the Grafted**, is a complex figure within the **golden lineage**, an intricate tapestry woven from ambition and ancestry. His bloodline traces back to **Godfrey, the first Tarnished**, whose legacy is steeped in the history of the Lands Between. This connection to the golden lineage gives Godrick both a sense of entitlement and an insatiable desire to reclaim what he sees as his birthright. As a descendant of the golden lineage, Godrick's ambitions are deeply rooted in the history and expectations of his forebears. His actions, including his notorious practice of grafting, reflect a desperate hunger to emulate the grandeur of the Erdtree and its golden order.
 

@@ -14,7 +14,7 @@ tags:
 
 Let's explore the multifaceted legacy of this celestial queen, examining her personal triumphs and tribulations, her impact on her descendants, and the enduring mysteries that surround her existence.
 
-### Rennala's Role and Significance as Queen of the Full Moon
+### Rennala Lore: Role and Significance as Queen of the Full Moon
 
 Rennala, **Queen of the Full Moon**, emerged as a monumental figure within the Lands Between, exerting her influence over both the Carian royal family and the esteemed Academy of Raya Lucaria. Her rise to power was marked by her unparalleled mastery of lunar magic, which enchanted the academy and secured her role as its head. Rennala's journey from a young astrologer captivated by the night sky to a formidable queen is a testament to her prowess and vision. Her mastery of full moon sorcery, a potent force that dispels opposing magic and diminishes foes' magic defenses, captivated the academy, ultimately leading her to become its master. This sorcery not only fortified her position but also shaped the academy's curriculum and ethos around the celestial guidance she revered.
 

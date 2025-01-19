@@ -13,7 +13,7 @@ tags:
 
 From her initial appearance at the **Waypoint Ruins** to her intricate connections with the **Academy of Raya Lucaria**, Sellen's story offers players a captivating blend of mystery and tragedy. As players delve into her questline, they are invited to explore the depths of the **primeval current** and the cosmic secrets that lie beyond the stars.
 
-### Introduction to Sorceress Sellen: Role in Elden Ring
+### Sellen Lore: Introduction to Sellen and Her Role in Elden Ring
 
 Sorceress Sellen is a figure of intrigue and complexity in Elden Ring, renowned for her mastery of **glintstone sorceries**. She initially appears in the Waypoint Ruins, located in the central-east part of Limgrave, where players encounter her after overcoming the formidable **Mad Pumpkin Head**. Within this hidden subterranean chamber, Sellen offers her services as a merchant and instructor, providing Tarnished adventurers with the opportunity to study sorceries in exchange for Runes. Her role as a guide is pivotal, as she opens the path to a deeper understanding of the arcane arts, offering insights into the mysteries of the cosmos through her teachings.
 

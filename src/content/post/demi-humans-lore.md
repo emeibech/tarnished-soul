@@ -13,7 +13,7 @@ tags:
 
 Often marginalized and misunderstood, demi-humans serve as a crucial link between the primal and civilized, challenging societal norms and species classifications. This post explores the origins, evolution, and social perceptions of demi-humans, examining their connection to the outer gods and their role in the cosmic story of Elden Ring.
 
-### Demi-Human Lore and Origins
+### Demi-Humans Lore and Origins
 
 In the expansive universe of **Elden Ring**, demi-humans serve as a bridge between the primal and the civilized, the beastly and the human. These hybrid beings, combining human and beast traits, symbolize the game's rich lore of myth and evolution. The term "demi-human" highlights their dual nature, implying a creature that is only partially human, with the other half rooted in the animalistic. Their mammalian features, resembling those of rats, dogs, and bears, set them apart from other humanoid creatures like Beastmen or Misbegotten.
 

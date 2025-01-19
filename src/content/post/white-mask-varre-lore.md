@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-12-09T00:00:00Z
-title: "White Mask Varré: The Mysterious Guide of Elden Ring's Blood-Soaked Path"
+title: "White Mask Varré Lore: Elden Ring's Blood-Soaked Path"
 excerpt: This article delves into the lore, motivations, and consequences surrounding Varré, exploring why he is a pivotal character in the Tarnished's journey.
 image: ~/assets/images/white-mask-varre/white-mask-varre.webp
 category: Elden Ring
@@ -13,7 +13,7 @@ tags:
 
 In the sprawling and mysterious world of Elden Ring, players encounter a multitude of characters, each with their own stories and secrets. Among them stands White Mask Varré, a figure shrouded in enigma and blood. Known for his unsettling war surgeon attire and his allegiance to Mohg, the Lord of Blood, Varré is a guide at The First Step. His presence represents a complex narrative of power, manipulation, and choice, as he seeks to recruit followers into Mohg's bloody dynasty.
 
-### Who is White Mask Varré?
+### Varré Lore: Who is White Mask Varré?
 
 White Mask Varré is an **enigmatic figure** encountered early in the journey of Elden Ring, known for his distinctive war surgeon attire. This garb, marked by its unsettling bloodstains, belies the true nature of war surgeons, who are not healers but rather **mercy killers** tasked with ending the suffering of the wounded on the battlefield. Varré's past as a war surgeon intersects with his current allegiance to **Mohg**, a connection forged after he was abducted against his will but later became a fervent disciple, uniquely taming Mohg's cursed blood. His mask hides Mohg's emblem painted on his forehead, symbolizing his devotion.
 

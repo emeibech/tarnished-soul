@@ -13,7 +13,7 @@ tags:
 
 In the haunting world of Elden Ring, where every encounter is a test of skill and perseverance, **Margit the Fell Omen** is a formidable gatekeeper. As one of the first significant bosses players face, **Margit's presence** is a harbinger of the challenges that lie ahead. Set against the backdrop of Stormveil Castle, Margit is a test of combat prowess and a narrative milestone, introducing players to the intricate lore and themes of ambition and defiance that permeate the Lands Between. His role in the game is multifaceted, acting as both a barrier to progress and a rite of passage for those seeking the **Great Runes**.
 
-### Introduction to Margit the Fell Omen
+### Margit Lore: Introduction to Margit the Fell Omen
 
 **Margit the Fell Omen** is a formidable challenge early in Elden Ring, marking one of the first significant hurdles players must overcome. As a **Great Enemy Boss**, Margit embodies the game's demanding nature, setting the tone for the trials that await. His role is not merely as an adversary but as a crucial milestone that players must conquer to progress to **Stormveil Castle**, a key location in the game's narrative.
 

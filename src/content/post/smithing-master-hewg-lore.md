@@ -13,7 +13,7 @@ tags:
 
 As players journey through Elden Ring, Hewg stands as a silent ally, his craftsmanship essential in the pursuit of slaying gods. His personal story invites players to explore themes of resilience, redemption, and the consequences of divine ambition.
 
-### Smithing Master Hewg's Role and Background
+### Smithing Master Hewg Lore: His Role and Background
 
 **Smithing Master Hewg** is a pivotal figure in Elden Ring, serving as a skilled blacksmith at the **Roundtable Hold**. This **Misbegotten artisan** enhances weapons beyond the +3 level, a crucial service for players facing daunting challenges. In addition to his weapon enhancement skills, Hewg duplicates **Ashes of War**, allowing players to experiment with different combat styles for a fee. His role is indispensable, providing the necessary tools for **Tarnished adventurers** to rise against formidable foes.
 

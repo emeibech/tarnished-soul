@@ -13,7 +13,7 @@ tags:
 
 Ranni's tale is one of rebellion, transformation, and the relentless pursuit of autonomy, making her a pivotal figure in the **Lands Between**. Through her actions, motivations, and interactions with players, Ranni weaves a narrative that challenges fate and invites players into a journey of cosmic significance.
 
-### Ranni's Lore Overview
+### Ranni Lore Overview
 
 **Ranni the Witch**, a pivotal figure in Elden Ring's intricate lore, is a character of immense depth and complexity. Born to **Radagon and Rennala**, she is part of a lineage intertwined with the divine, as her father Radagon left to become the consort of Queen Marika. This union elevated Ranni and her siblings to the status of demigods, but **Ranni's destiny was distinct**. Unlike her siblings, she was chosen by the **Two Fingers** as a potential successor to Queen Marika, granting her the esteemed status of an **Empyrean**. This selection bestowed upon her **a shadow, Blaidd**, symbolizing her elevated role in the cosmic order.
 
