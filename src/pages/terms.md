@@ -3,13 +3,13 @@ title: 'Terms and Conditions'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-_Last updated: September 29, 2024_
+_Last updated: January 21, 2025_
 
 Please read these terms and conditions carefully before using Our Service.
 
 ## 1. Introduction
 
-Welcome to TarnishedSoul ("we", "our", "us"). By accessing or using our website at [Your Blog URL] (the "Site"), you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Site.
+Welcome to Tarnished Soul ("we", "our", "us"). By accessing or using our website at [tarnishedsoul.com](https://tarnishedsoul.com) (the "Site"), you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Site.
 
 ## 2. Use of the Site
 

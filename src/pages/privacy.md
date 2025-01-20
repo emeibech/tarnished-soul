@@ -3,11 +3,11 @@ title: 'Privacy Policy'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-_Last updated: September 29, 2024_
+_Last updated: January 21, 2025_
 
 ## Introduction
 
-Welcome to TarnishedSoul. We respect your privacy and are committed to protecting any personal information you may provide while using our website. This Privacy Policy explains how we handle your information.
+Welcome to Tarnished Soul. We respect your privacy and are committed to protecting any personal information you may provide while using our website. This Privacy Policy explains how we handle your information.
 
 ## Data Collection
 
