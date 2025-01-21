@@ -1,8 +1,8 @@
 ---
 publishDate: 2025-01-05T00:00:00Z
-updateDate: 2025-01-19T00:00:00Z
+updateDate: 2025-01-21T22:15:13Z
 title: 'The Legendary Journey of Iron Fist Alexander: From Humble Jar to Mighty Champion'
-excerpt: Embarking on a quest that transcends mere physical strength, Iron Fist Alexander's story is one of adventure, self-discovery, and the pursuit of greatness. As he travels across the Lands Between, he not only seeks power but also aims to fulfill the **collective dreams** of the warriors whose remnants he carries.
+excerpt: Embarking on a quest that transcends mere physical strength, Iron Fist Alexander's story is one of adventure, self-discovery, and the pursuit of greatness. As he travels across the Lands Between, he not only seeks power but also aims to fulfill the collective dreams of the warriors whose remnants he carries.
 image: ~/assets/images/iron-fist-alexander/iron-fist-alexander.webp
 category: Elden Ring
 tags:
